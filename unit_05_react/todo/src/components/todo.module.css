@@ -1,0 +1,10 @@
+.strike{
+    text-decoration: line-through;
+    color: green;
+}
+.normal{
+    text-decoration: none;
+}
+.todoItem{
+    display: flex;
+}
