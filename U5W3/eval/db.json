@@ -1,0 +1,25 @@
+{
+  "prod": [
+    {
+      "title": "Apple",
+      "cost": "200",
+      "image": "https://d27028dliefpk3.cloudfront.net/assets/offline-campus/masai_offline_five-min.jpeg",
+      "category": "Fruits",
+      "id": 1
+    },
+    {
+      "title": "Banana",
+      "cost": "50",
+      "image": "https://d27028dliefpk3.cloudfront.net/assets/offline-campus/masai_offline_five-min.jpeg",
+      "category": "Fruits",
+      "id": 2
+    },
+    {
+      "title": "Carrot",
+      "cost": "40",
+      "image": "https://d27028dliefpk3.cloudfront.net/assets/offline-campus/masai_offline_five-min.jpeg",
+      "category": "Vegetable",
+      "id": 3
+    }
+  ]
+}
