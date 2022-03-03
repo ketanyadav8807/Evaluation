@@ -17,6 +17,9 @@ export const Login = ({setLogin}) => {
       })
       setLogin(true)
     }
+    else{
+      alert("Fill detail properly")
+    }
   }
   return (
     <div style={{background: "grey" , padding: "50px"}}>
